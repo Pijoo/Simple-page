@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Galada');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Galada', cursive;
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-image: radial-gradient(circle, #72d6c9, #54d1ed);
+    height: 80px;
+}
+
+.nav-logo {
+    float: left;
+}
+
+nav ul {
+    float: right;
+}
